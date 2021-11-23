@@ -1,10 +1,10 @@
 # api_playground
 
 
-### Nintendo News
+### Doggy Facts
 
 
-### ???
+### D & D Monster Data
 
 
-### ???
+### Useless Facts
